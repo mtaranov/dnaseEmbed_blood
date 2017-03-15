@@ -1,0 +1,9 @@
+/users/mtaranov/local/anaconda2/bin/python /users/mtaranov/dnaseEmbed_blood/get_seq_at_dnasePeaks.py --fasta_file /mnt/data/annotations/by_release/hg19.GRCh37/hg19.genome.fa --dnase_narrowPeak_file /users/mtaranov/dnaseEmbed_blood/data/E116.GM12878_Lymphoblastoid_Cells.ENCODE.Duke_Crawford.DNase-seq.merged.20bp.filt.50m_rep1-pr.IDR0.1.filt.narrowPeak.gz --window 2000 --output_name /users/mtaranov/dnaseEmbed_blood/data/seq_at_dnasePeaks_2kb 
+
+#/users/mtaranov/local/anaconda2/bin/python /users/mtaranov/dnaseEmbed_blood/get_seq_at_dnasePeaks.py --fasta_file /mnt/data/annotations/by_release/hg19.GRCh37/hg19.genome.fa --dnase_narrowPeak_file /users/mtaranov/dnaseEmbed_blood/data/E116.GM12878_Lymphoblastoid_Cells.ENCODE.Duke_Crawford.DNase-seq.merged.20bp.filt.50m_rep1-pr.IDR0.1.filt.narrowPeak.gz --window 1000 --output_name /users/mtaranov/dnaseEmbed_blood/data/seq_at_dnasePeaks_1kb 
+
+#python get_seq_at_dnasePeaks.py --fasta_file /mnt/data/annotations/by_release/hg19.GRCh37/hg19.genome.fa --dnase_narrowPeak_file /users/mtaranov/test_dnase_file.gz --window 2000 --output_name /users/mtaranov/dnaseEmbed_blood/data/test_seq_at_dnasePeaks_2kb
+
+#/users/mtaranov/local/anaconda2/bin/python /users/mtaranov/dnaseEmbed_blood/get_seq_at_dnasePeaks.py --fasta_file /mnt/data/annotations/by_release/hg19.GRCh37/hg19.genome.fa --dnase_narrowPeak_file /users/mtaranov/dnaseEmbed_blood/data/E116.GM12878_chr16.gz --window 2000 --output_name /users/mtaranov/dnaseEmbed_blood/data/seq_at_dnasePeaks_2kb_chr16
+
+#/users/mtaranov/local/anaconda2/bin/python /users/mtaranov/dnaseEmbed_blood/get_seq_at_dnasePeaks.py --fasta_file /mnt/data/annotations/by_release/hg19.GRCh37/hg19.genome.fa --dnase_narrowPeak_file /users/mtaranov/dnaseEmbed_blood/data/E116.GM12878_chr1.gz --window 2000 --output_name /users/mtaranov/dnaseEmbed_blood/data/seq_at_dnasePeaks_2kb_chr1
